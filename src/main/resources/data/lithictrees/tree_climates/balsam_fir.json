@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/balsam_fir",
+        "rainfall_range": [
+            210,
+            500
+        ],
+        "temperature_range": [
+            -13.9,
+            -1.1
+        ]
+    }
+}

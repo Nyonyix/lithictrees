@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/red_silk_cotton",
+        "rainfall_range": [
+            250,
+            350
+        ],
+        "temperature_range": [
+            20.7,
+            40.0
+        ]
+    }
+}

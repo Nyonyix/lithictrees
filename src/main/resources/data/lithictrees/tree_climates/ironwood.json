@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/ironwood",
+        "rainfall_range": [
+            320,
+            430
+        ],
+        "temperature_range": [
+            20.7,
+            40.0
+        ]
+    }
+}

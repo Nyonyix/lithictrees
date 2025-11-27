@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/acacia",
+        "rainfall_range": [
+            90,
+            275
+        ],
+        "temperature_range": [
+            13.4,
+            40.0
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/sycamore",
+        "rainfall_range": [
+            330,
+            480
+        ],
+        "temperature_range": [
+            -6.6,
+            11.6
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/aspen",
+        "rainfall_range": [
+            350,
+            500
+        ],
+        "temperature_range": [
+            -15.7,
+            -1.1
+        ]
+    }
+}

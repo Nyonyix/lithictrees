@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/spruce",
+        "rainfall_range": [
+            330,
+            500
+        ],
+        "temperature_range": [
+            -19.4,
+            2.5
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/sequoia",
+        "rainfall_range": [
+            320,
+            500
+        ],
+        "temperature_range": [
+            0.7,
+            8.0
+        ]
+    }
+}

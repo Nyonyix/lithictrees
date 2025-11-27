@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/stone_pine",
+        "rainfall_range": [
+            140,
+            290
+        ],
+        "temperature_range": [
+            2.5,
+            18.9
+        ]
+    }
+}

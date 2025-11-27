@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/white_cedar",
+        "rainfall_range": [
+            100,
+            220
+        ],
+        "temperature_range": [
+            -13.9,
+            4.3
+        ]
+    }
+}

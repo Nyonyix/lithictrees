@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/hickory",
+        "rainfall_range": [
+            210,
+            400
+        ],
+        "temperature_range": [
+            -6.6,
+            11.6
+        ]
+    }
+}

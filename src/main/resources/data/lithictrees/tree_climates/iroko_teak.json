@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/iroko_teak",
+        "rainfall_range": [
+            210,
+            320
+        ],
+        "temperature_range": [
+            17.1,
+            40.0
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/coast_redwood",
+        "rainfall_range": [
+            320,
+            500
+        ],
+        "temperature_range": [
+            4.3,
+            9.8
+        ]
+    }
+}

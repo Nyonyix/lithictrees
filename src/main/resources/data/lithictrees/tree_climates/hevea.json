@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/hevea",
+        "rainfall_range": [
+            390,
+            500
+        ],
+        "temperature_range": [
+            17.1,
+            26.2
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/small_leaf_mahogany",
+        "rainfall_range": [
+            320,
+            500
+        ],
+        "temperature_range": [
+            11.6,
+            18.9
+        ]
+    }
+}

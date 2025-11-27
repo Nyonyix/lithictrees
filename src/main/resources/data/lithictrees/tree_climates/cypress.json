@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/cypress",
+        "rainfall_range": [
+            100,
+            260
+        ],
+        "temperature_range": [
+            2.5,
+            15.3
+        ]
+    }
+}

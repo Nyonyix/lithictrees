@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/coast_spruce",
+        "rainfall_range": [
+            320,
+            390
+        ],
+        "temperature_range": [
+            -12.1,
+            6.1
+        ]
+    }
+}

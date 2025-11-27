@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/kapok",
+        "rainfall_range": [
+            360,
+            500
+        ],
+        "temperature_range": [
+            13.4,
+            24.4
+        ]
+    }
+}

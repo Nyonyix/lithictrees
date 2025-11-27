@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/gum_arabic",
+        "rainfall_range": [
+            90,
+            275
+        ],
+        "temperature_range": [
+            11.6,
+            40.0
+        ]
+    }
+}

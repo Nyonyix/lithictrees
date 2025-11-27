@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/mpingo_blackwood",
+        "rainfall_range": [
+            85,
+            285
+        ],
+        "temperature_range": [
+            13.4,
+            22.5
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/redcedar",
+        "rainfall_range": [
+            410,
+            500
+        ],
+        "temperature_range": [
+            -4.8,
+            9.8
+        ]
+    }
+}

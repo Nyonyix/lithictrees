@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/flame_of_the_forest",
+        "rainfall_range": [
+            340,
+            500
+        ],
+        "temperature_range": [
+            13.4,
+            24.4
+        ]
+    }
+}

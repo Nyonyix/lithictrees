@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/black_spruce",
+        "rainfall_range": [
+            220,
+            360
+        ],
+        "temperature_range": [
+            -17.5,
+            -1.1
+        ]
+    }
+}

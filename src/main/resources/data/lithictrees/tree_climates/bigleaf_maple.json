@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/bigleaf_maple",
+        "rainfall_range": [
+            405,
+            500
+        ],
+        "temperature_range": [
+            -4.8,
+            11.6
+        ]
+    }
+}

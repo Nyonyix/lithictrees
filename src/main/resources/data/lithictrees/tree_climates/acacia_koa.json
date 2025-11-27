@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/acacia_koa",
+        "rainfall_range": [
+            350,
+            500
+        ],
+        "temperature_range": [
+            15.3,
+            24.4
+        ]
+    }
+}

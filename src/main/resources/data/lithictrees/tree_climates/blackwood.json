@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/blackwood",
+        "rainfall_range": [
+            35,
+            150
+        ],
+        "temperature_range": [
+            9.8,
+            20.7
+        ]
+    }
+}

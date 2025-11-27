@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/rainbow_eucalyptus",
+        "rainfall_range": [
+            300,
+            450
+        ],
+        "temperature_range": [
+            15.3,
+            24.4
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/douglas_fir",
+        "rainfall_range": [
+            305,
+            500
+        ],
+        "temperature_range": [
+            -10.3,
+            6.1
+        ]
+    }
+}

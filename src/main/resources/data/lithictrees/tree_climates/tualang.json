@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/tualang",
+        "rainfall_range": [
+            360,
+            500
+        ],
+        "temperature_range": [
+            20.7,
+            40.0
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/scrub_hickory",
+        "rainfall_range": [
+            400,
+            475
+        ],
+        "temperature_range": [
+            11.6,
+            17.1
+        ]
+    }
+}

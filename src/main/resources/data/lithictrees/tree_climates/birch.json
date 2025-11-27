@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/birch",
+        "rainfall_range": [
+            125,
+            310
+        ],
+        "temperature_range": [
+            -13.9,
+            2.5
+        ]
+    }
+}

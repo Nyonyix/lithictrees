@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/baobab",
+        "rainfall_range": [
+            30,
+            190
+        ],
+        "temperature_range": [
+            15.3,
+            26.2
+        ]
+    }
+}

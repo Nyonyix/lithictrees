@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/giant_rosewood",
+        "rainfall_range": [
+            340,
+            440
+        ],
+        "temperature_range": [
+            15.3,
+            22.5
+        ]
+    }
+}

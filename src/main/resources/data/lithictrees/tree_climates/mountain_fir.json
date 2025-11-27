@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/mountain_fir",
+        "rainfall_range": [
+            220,
+            345
+        ],
+        "temperature_range": [
+            -1.1,
+            11.6
+        ]
+    }
+}

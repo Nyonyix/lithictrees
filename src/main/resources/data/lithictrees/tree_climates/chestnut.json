@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "tfc:wood/sapling/chestnut",
+        "rainfall_range": [
+            150,
+            300
+        ],
+        "temperature_range": [
+            -6.6,
+            11.6
+        ]
+    }
+}

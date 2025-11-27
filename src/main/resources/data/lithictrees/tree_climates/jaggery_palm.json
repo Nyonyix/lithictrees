@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/jaggery_palm",
+        "rainfall_range": [
+            400,
+            500
+        ],
+        "temperature_range": [
+            20.7,
+            26.2
+        ]
+    }
+}

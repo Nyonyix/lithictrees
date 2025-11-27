@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/lebombo_ironwood",
+        "rainfall_range": [
+            150,
+            230
+        ],
+        "temperature_range": [
+            20.7,
+            40.0
+        ]
+    }
+}

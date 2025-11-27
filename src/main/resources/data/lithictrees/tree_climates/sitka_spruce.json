@@ -1,0 +1,13 @@
+{
+    "tree": {
+        "id": "afc:wood/sapling/sitka_spruce",
+        "rainfall_range": [
+            370,
+            500
+        ],
+        "temperature_range": [
+            2.5,
+            8.0
+        ]
+    }
+}
