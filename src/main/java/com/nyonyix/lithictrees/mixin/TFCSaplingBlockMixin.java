@@ -34,17 +34,7 @@ public class TFCSaplingBlockMixin {
             float envRainfall = Climate.getRainfall(level, pos);
 
             if (!treeClimate.isValidTemperature(envTemperature) || !treeClimate.isValidRainfall(envRainfall)) {
-                LOGGER.info("Climate not suitable for {}", ForgeRegistries.BLOCKS.getKey(sapling));
-                return;
-            } else {
-//                LOGGER.info("TreeClimate Rainfall: {}", treeClimate.rainfall());
-//                LOGGER.info("TreeClimate Temperature: {}", treeClimate.temperature());
-//                LOGGER.info("Environment Rainfall: {}", envRainfall);
-//                LOGGER.info("Environment Temperature: {}", envTemperature);
-//
-//                LOGGER.info("isValidRainfall: {}", treeClimate.isValidRainfall(envRainfall));
-//                LOGGER.info("isValidTemperature: {}", treeClimate.isValidTemperature(envTemperature));
-                LOGGER.info("Climate suitable for {}", ForgeRegistries.BLOCKS.getKey(sapling));
+                ci.cancel();
             }
 
         }
