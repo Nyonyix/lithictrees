@@ -8,7 +8,6 @@ import net.dries007.tfc.util.climate.Climate;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.util.RandomSource;
-import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraftforge.registries.ForgeRegistries;
 import org.slf4j.Logger;
@@ -25,11 +24,9 @@ public class TFCSaplingBlockMixin {
     @Inject(method = "randomTick", at = @At("HEAD"), cancellable = true)
     private void randomTick(BlockState state, ServerLevel level, BlockPos pos, RandomSource random, CallbackInfo ci){
 
-        Block sapling = state.getBlock();
+        if (ForgeRegistries.BLOCKS.tags().getTag(ModTags.Blocks.SAPLINGS).contains(state.getBlock())) {
 
-        if (ForgeRegistries.BLOCKS.tags().getTag(ModTags.Blocks.SAPLINGS).contains(sapling)) {
-
-            TreeClimateLoader.TreeClimate treeClimate = TreeClimateLoader.getClimateForTree(sapling);
+            TreeClimateLoader.TreeClimate treeClimate = TreeClimateLoader.getClimateForTree(state.getBlock());
             float envTemperature = Climate.getAverageTemperature(level, pos);
             float envRainfall = Climate.getRainfall(level, pos);
 
